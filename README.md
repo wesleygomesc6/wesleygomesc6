@@ -2,10 +2,11 @@
 
 <div>
 <a href="https://github.com/wesleygomesc6">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygomesc6&layout=compact&langs_count=7"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygomesc6&layout=compact"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleygomesc6&show_icons=true&include_all_commits=true&count_private=true"/>
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=wesleygomesc6&hide_border=true&background=FFFFFF00">
 </div>
-
+  
 <!--
 **wesleygomesc6/wesleygomesc6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
