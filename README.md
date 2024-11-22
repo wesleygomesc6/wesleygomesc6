@@ -1,9 +1,13 @@
 ## Hi there 👋
-
-<div>
+<div align="center">
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+</div>
+<br/>
+<div align="center">
 <a href="https://github.com/wesleygomesc6">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleygomesc6&layout=compact"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleygomesc6&show_icons=true&include_all_commits=true&count_private=true"/>
+  <br/>
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=wesleygomesc6&hide_border=true&background=FFFFFF00">
 </div>
   
