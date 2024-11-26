@@ -13,7 +13,7 @@
 
 <br/>
 
-### Total de Visitas no perfil :detective: <br>
+### Total Profile Visits :detective: <br>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/wesleygomesc6/count.svg" />
  </p>
