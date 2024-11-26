@@ -11,7 +11,13 @@
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=wesleygomesc6&hide_border=true&theme=tokyonight">
 </div>
 
-<br>
+<br/>
+
+### Total de Visitas no perfil :detective: <br>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/wesleygomesc6/count.svg" />
+ </p>
+
 
 ### Top Repositories
 <div align="center">
