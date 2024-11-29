@@ -13,22 +13,6 @@
 
 <br/>
 
-### Total Profile Visits :detective: <br>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/wesleygomesc6/count.svg" />
- </p>
-
-
-### Top Repositories
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wesleygomesc6&repo=redmine-check&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wesleygomesc6&repo=monitoramento-web&theme=tokyonight" />
-</a>
-</div>
-<br />
 
 
 <!--
